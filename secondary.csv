@@ -1,5 +1,0 @@
-,from_src,to_dest,forward_difference
-0,0x12,0x49,FORWARD_EDGE
-1,0x49,0x113,FORWARD_EDGE
-2,0x113,0x133,FORWARD_EDGE
-3,0x133,0x3c5,FORWARD_EDGE
